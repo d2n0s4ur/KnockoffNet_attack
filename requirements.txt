@@ -1,1 +1,6 @@
 torch
+timm==0.8.19.dev0
+torchvision
+numpy
+matplotlib
+torchsummary
