@@ -14,3 +14,9 @@ jupyter src/knockoff_nets.ipynb
 
 ## Result
 ![Result](assets/knockoff_attack.png)
+
+<br/>
+
+# Extra - Knockoff Nets Attack with a different attacker model(LeNet-5)
+
+![Result](assets/knockoff_attack_extra.png)
